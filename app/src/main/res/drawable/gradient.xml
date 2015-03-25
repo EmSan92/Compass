@@ -3,10 +3,9 @@
     android:layout_height
 
     <gradient
-        android:angle="90"
-        android:centerColor="#FFFFFF"
-        android:endColor="#b1d1FF"
-        android:startColor="#facade"
+        android:angle="45"
+        android:endColor="#FFFFFF"
+        android:startColor="#002966"
         android:type="linear" />
 
     <corners
